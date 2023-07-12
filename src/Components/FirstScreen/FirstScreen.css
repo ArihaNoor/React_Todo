@@ -1,0 +1,28 @@
+#main-content{
+    text-align: center;
+    color: rgb(8, 8, 8);
+    height: 720px;
+    background-color: rgb(206, 219, 235);
+}
+.main-heading{
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.main-image{
+    width: 400px;
+    height: 400px;
+}
+
+#main-content p{
+    margin-top: 20px;
+}
+
+.main-btn{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin-top: 10px;
+}

@@ -1,0 +1,13 @@
+#main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 60%;
+    margin: 40px auto;
+    color: rgb(11, 11, 11);
+    background-color: rgb(206, 219, 235);
+    min-width: 50%;
+    min-height: 50%;
+    border-radius: 3rem;
+    box-shadow: 5px 5px 5px rgba(122, 119, 119, 0.5);
+}

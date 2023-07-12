@@ -1,0 +1,53 @@
+#table {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  text-align: center;
+}
+
+table {
+  width: 600px;
+  text-align: center;
+  border: 2px solid rgba(128, 128, 128, 0.459);
+}
+
+thead th {
+  padding: 12px;
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid rgba(128, 128, 128, 0.459);
+  background-color: rgb(77, 76, 76);
+  color: white;
+}
+
+tbody td {
+  padding: 12px;
+  border: 2px solid rgba(128, 128, 128, 0.459);
+}
+#btn-edit,
+#btn-delete {
+  border: none;
+  cursor: pointer;
+  font-size: 25px;
+  background-color: transparent;
+}
+
+
+#btn-edit:hover i {
+  color: #0099ff;
+}
+
+#btn-delete:hover i {
+  color: #ff0000;
+}
+
+#action-btn {
+  width: 120px;
+}
+
+#changedInput {
+  border: none;
+  background-color: white;
+  width: inherit;
+}
